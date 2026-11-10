@@ -1,4 +1,5 @@
 1^ - Nascondino
 2^ - Ruba la bandiera
-3^ - c'è l'hai
+3^ - palla avvelenata
 4^ - palla prigioniera
+5^ - trova le carte
