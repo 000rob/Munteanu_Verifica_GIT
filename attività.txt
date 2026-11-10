@@ -3,3 +3,5 @@
 3^ - palla avvelenata
 4^ - palla prigioniera
 5^ - trova le carte
+6^ - colorare
+7^ - apertura regali
